@@ -3,21 +3,56 @@
         "id": 1,
         "name": "Radiology Equipment 1",
         "category": "Radiology",
-        "image": "assets/images/shop/radiology1.jpg",
+        "image": "assets/images/arrivals_01.png",
         "description": "This is a high-quality radiology machine for all your diagnostic needs."
     },
     {
         "id": 2,
         "name": "Dental Chair",
         "category": "Dental",
-        "image": "assets/images/shop/dental1.jpg",
+        "image": "assets/images/arrivals_02.png",
         "description": "A comfortable and modern dental chair."
     },
     {
         "id": 3,
         "name": "Orthopaedic Implants",
         "category": "Orthopaedic",
-        "image": "assets/images/shop/ortho1.jpg",
+        "image": "assets/images/arrivals_03.png",
         "description": "Top-grade orthopaedic implants for various procedures."
+    },
+    {
+        "id": 4,
+        "name": "IVF Equipment",
+        "category": "Gynaecology/Fertility/IVF",
+        "image": "assets/images/arrivals_04.png",
+        "description": "State-of-the-art equipment for IVF procedures."
+    },
+    {
+        "id": 5,
+        "name": "Laparoscopy Tower",
+        "category": "Laparoscopy/Robotics",
+        "image": "assets/images/arrivals_05.png",
+        "description": "A complete laparoscopy tower for minimally invasive surgery."
+    },
+    {
+        "id": 6,
+        "name": "Microscope",
+        "category": "Laboratory",
+        "image": "assets/images/arrivals_06.png",
+        "description": "High-power microscope for laboratory use."
+    },
+    {
+        "id": 7,
+        "name": "Stem Cell Freezer",
+        "category": "Stem cells/Regenerative Medicine",
+        "image": "assets/images/arrivals_07.png",
+        "description": "A reliable freezer for stem cell storage."
+    },
+    {
+        "id": 8,
+        "name": "Dialysis Machine",
+        "category": "Urology/Nephrology",
+        "image": "assets/images/arrivals_08.png",
+        "description": "An advanced dialysis machine for nephrology."
     }
 ]
